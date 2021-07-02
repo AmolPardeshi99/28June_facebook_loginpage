@@ -1,0 +1,2 @@
+rootProject.name = "28June_facebook_loginpage"
+include ':app'
